@@ -19,6 +19,10 @@
   </ul>
   
   <h3>Contact me</h3>
-  <i class="bi bi-alarm"></i>
+  <ul>
+	  <li>Mail : ahmed5ziane@gmail.com</li>
+	  <li>Linkedin : https://www.linkedin.com/in/ahmedziane </li>
+	  <li>Website : https://zianeahmed.com </li>
+	</ul>
 </body>
 </html>
