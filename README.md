@@ -18,7 +18,6 @@
     <li> 💞️ I’m looking for new challenges as a Python developer/ Data scientist </li>
   </ul>
   <br/>
-  <br/>
   <h3>Contact me</h3>
   <ul>
 	  <li>Mail : ahmed5ziane@gmail.com</li>
