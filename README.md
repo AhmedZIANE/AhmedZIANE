@@ -10,7 +10,7 @@
 
   <h2> Hi, I’m Ahmed 👋 </h2>
   <br/>
-  Welcome and thank you for your visit! I'am a Software Engineer passionate about new technologies.
+  Welcome and thank you for your visit! I'am a Software Engineer from Morocco.
   <hr/>
   <ul>
     <li> 👀 Learning new things is my favourite passion. I'am interested about algorithmics, distributed systems and Data science.</li>
